@@ -1,0 +1,54 @@
+Feature,Importance
+protective_behavior_nomask_scale,0.6453790697217022
+7days_rolling_cases,0.05061112013216952
+Isolate if instructed_Very willing,0.04786986254653699
+week,0.04651908543238588
+Non-household contacts,0.04609675552915608
+Perceived Severity,0.04047953565768172
+Isolate if unwell_Yes,0.02095438588992908
+7days_rolling_deaths,0.018491175549991443
+Isolate if unwell_Not sure,0.011465574540185259
+age,0.008222664384217473
+Perceived Susceptibility,0.006875945806586207
+Isolate if instructed_Very unwilling,0.005984317054737454
+Isolate if instructed_Somewhat willing,0.005484396897930916
+Wellbeing,0.004339117960924836
+household_size,0.0037210641499399533
+Isolate if instructed_Somewhat unwilling,0.002503277002920386
+How Government handle situation_Very well,0.0023074729716581225
+How Government handle situation_Very badly,0.002297701972732198
+Confidence in Goverment's response_No confidence at all,0.0019015558035404179
+Pleasure in doing things_Not at all,0.001736300704825168
+gender_Male,0.0016441610780481568
+Can't control worrying_Not at all,0.0014091820994639728
+Feeling down/depressed_Not at all,0.0012561605287459612
+employment_status_Part time employment,0.0011678603382634426
+Confidence in Goverment's response_A lot of confidence,0.0011134779797561274
+Feeling down/depressed_Nearly every day,0.0010903533718932467
+How Government handle situation_Somewhat well,0.0010885716825921239
+comorbidities_Yes,0.0010241837957874248
+Can't control worrying_Several days,0.0010071304070022437
+Feeling nervous/anxious_Not at all,0.0009524222122536269
+employment_status_Retired,0.0009473137614960572
+Pleasure in doing things_Nearly every day,0.0009068942067304784
+Feeling nervous/anxious_consent_removed,0.0008371434513875053
+Feeling nervous/anxious_Several days,0.000824618126607921
+Feeling down/depressed_consent_removed,0.00081592948850485
+How Government handle situation_Somewhat badly,0.0008129148478919763
+employment_status_Not working,0.0007973418862656292
+Confidence in Goverment's response_Not very much confidence,0.0007813537223930543
+Can't control worrying_consent_removed,0.0007781441772479857
+Feeling nervous/anxious_Nearly every day,0.0007743307497053509
+Feeling down/depressed_Several days,0.0007698959000005681
+employment_status_Unemployed,0.0007645533816027976
+Pleasure in doing things_Several days,0.0007571340398092085
+Pleasure in doing things_consent_removed,0.0007539981164974104
+Can't control worrying_Nearly every day,0.0007416568556151708
+comorbidities_consent_removed,0.0007346111776138848
+Confidence in Goverment's response_Don't know,0.00042307123231045594
+Isolate if instructed_Not sure,0.0003213972258769035
+comorbidities_Prefer_not_to_say,0.0002865699735689672
+Can't control worrying_Prefer not to say,0.0001982650948002489
+Pleasure in doing things_Prefer not to say,0.0001827093868200288
+Feeling down/depressed_Prefer not to say,0.00012781906101742266
+Feeling nervous/anxious_Prefer not to say,8.737205249218032e-05
