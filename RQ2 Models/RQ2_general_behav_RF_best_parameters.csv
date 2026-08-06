@@ -1,0 +1,9 @@
+State,rf__max_depth,rf__max_features,rf__min_samples_leaf,rf__min_samples_split,rf__n_estimators
+Australian Capital Territory,7,sqrt,5,2,250
+New South Wales,7,sqrt,1,10,250
+Northern Territory,7,sqrt,5,2,250
+Queensland,7,sqrt,1,2,250
+South Australia,7,sqrt,1,2,250
+Tasmania,7,sqrt,5,2,250
+Victoria,7,sqrt,5,2,250
+Western Australia,7,sqrt,5,2,250

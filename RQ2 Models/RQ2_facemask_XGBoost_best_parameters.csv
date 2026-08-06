@@ -1,0 +1,9 @@
+State,xgb__learning_rate,xgb__max_depth,xgb__min_child_weight,xgb__n_estimators
+Australian Capital Territory,0.05,3,1,250
+New South Wales,0.05,5,7,250
+Northern Territory,0.05,3,1,100
+Queensland,0.05,5,5,250
+South Australia,0.05,5,1,250
+Tasmania,0.05,3,5,250
+Victoria,0.05,5,7,100
+Western Australia,0.1,3,7,250

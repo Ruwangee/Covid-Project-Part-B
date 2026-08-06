@@ -1,0 +1,9 @@
+State,Accuracy,ROC AUC,F1
+Australian Capital Territory,0.8686,0.9054,0.8525
+New South Wales,0.813,0.889,0.8378
+Northern Territory,0.76,0.7902,0.4545
+Queensland,0.8316,0.9001,0.7924
+South Australia,0.9101,0.9607,0.8973
+Tasmania,0.9216,0.9251,0.7
+Victoria,0.8331,0.8531,0.8895
+Western Australia,0.847,0.9104,0.7281
