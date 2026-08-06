@@ -1,0 +1,62 @@
+Feature,Importance
+protective_behavior_nomask_scale,0.5134139840882408
+7days_rolling_cases,0.1154000020526916
+7days_rolling_deaths,0.053651074982497535
+Non-household contacts,0.05214243800379219
+state_Victoria,0.03654426815019855
+state_Western Australia,0.02960142438848607
+Perceived Severity,0.028025487509871782
+Isolate if instructed_Very willing,0.025703651956180622
+week,0.019923579429635484
+state_New South Wales,0.01565582628663155
+Isolate if unwell_Yes,0.015199466083217834
+mandate_period,0.012751302869453161
+age,0.007324869866156875
+Isolate if unwell_Not sure,0.0071458449302204295
+Perceived Susceptibility,0.0070739488376361185
+state_Queensland,0.005831013024293013
+Isolate if instructed_Very unwilling,0.005525046638676024
+Wellbeing,0.004110506947381184
+household_size,0.003905100212915975
+state_Tasmania,0.003701082435852714
+Isolate if instructed_Somewhat willing,0.003502107328410305
+Confidence in Goverment's response_A lot of confidence,0.0021995516547891137
+How Government handle situation_Very well,0.0019411480397508321
+state_South Australia,0.0018150091966813073
+gender_Male,0.001255980181550746
+Isolate if instructed_Somewhat unwilling,0.0012214527011282944
+employment_status_Part time employment,0.0010576617549638069
+Can't control worrying_Not at all,0.0009964475050881218
+How Government handle situation_Somewhat badly,0.0009591742259242367
+How Government handle situation_Somewhat well,0.0009226360285480961
+Pleasure in doing things_Nearly every day,0.0009125558517853061
+Pleasure in doing things_Not at all,0.0008995038736795092
+Feeling nervous/anxious_Nearly every day,0.0008856340226825095
+Confidence in Goverment's response_No confidence at all,0.0008394967001584192
+Feeling down/depressed_Nearly every day,0.000807325388652784
+How Government handle situation_Very badly,0.0007995529872281428
+employment_status_Retired,0.0007980937995881517
+Pleasure in doing things_Several days,0.0007956240860437274
+comorbidities_Yes,0.000788851610137572
+Feeling nervous/anxious_Not at all,0.0007198846297771652
+Feeling down/depressed_Several days,0.0007162530860074114
+employment_status_Not working,0.0006972353929297656
+Feeling nervous/anxious_Several days,0.0006850352312854606
+Confidence in Goverment's response_Not very much confidence,0.0006809256191086623
+employment_status_Unemployed,0.0006792485449825566
+Feeling down/depressed_Not at all,0.0006695967769141729
+Can't control worrying_Nearly every day,0.0006564576703809869
+comorbidities_consent_removed,0.0006543896898285957
+Can't control worrying_Several days,0.0006455821316305372
+Confidence in Goverment's response_Don't know,0.0006089967546755386
+Feeling nervous/anxious_consent_removed,0.0005635587858139093
+Can't control worrying_consent_removed,0.000556409785759784
+Pleasure in doing things_consent_removed,0.0005547379955320099
+Feeling down/depressed_consent_removed,0.0005456873029943707
+comorbidities_Prefer_not_to_say,0.000476709832173532
+Isolate if instructed_Not sure,0.0003899834399323468
+state_Northern Territory,0.00028611750727797626
+Feeling down/depressed_Prefer not to say,0.0002153012314949361
+Feeling nervous/anxious_Prefer not to say,0.00020364734347721612
+Can't control worrying_Prefer not to say,0.00020151368845223105
+Pleasure in doing things_Prefer not to say,0.00019215641977018025
