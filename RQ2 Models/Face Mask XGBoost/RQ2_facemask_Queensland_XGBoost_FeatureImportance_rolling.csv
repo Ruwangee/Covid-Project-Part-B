@@ -1,0 +1,54 @@
+Feature,Importance
+week,0.14066064
+protective_behavior_nomask_scale,0.08426016
+7days_rolling_deaths,0.0401799
+Feeling down/depressed_consent_removed,0.025832154
+7days_rolling_cases,0.025391765
+Perceived Severity,0.025314376
+Isolate if unwell_Not sure,0.022654338
+age,0.020936277
+Isolate if instructed_Very unwilling,0.02068096
+Perceived Susceptibility,0.019980788
+Wellbeing,0.018622026
+Isolate if instructed_Somewhat willing,0.018077437
+household_size,0.018029839
+Feeling nervous/anxious_Nearly every day,0.01736755
+comorbidities_consent_removed,0.017177854
+employment_status_Not working,0.016671175
+Isolate if instructed_Very willing,0.01661459
+employment_status_Part time employment,0.016458977
+Feeling nervous/anxious_consent_removed,0.016435873
+Pleasure in doing things_Nearly every day,0.016291443
+Confidence in Goverment's response_A lot of confidence,0.016272742
+Confidence in Goverment's response_No confidence at all,0.01608378
+Feeling down/depressed_Nearly every day,0.01601452
+Non-household contacts,0.016013216
+How Government handle situation_Very well,0.015682025
+Confidence in Goverment's response_Don't know,0.015240726
+How Government handle situation_Somewhat badly,0.014973251
+Can't control worrying_Nearly every day,0.01481393
+Feeling nervous/anxious_Not at all,0.014808292
+Isolate if instructed_Somewhat unwilling,0.014767466
+gender_Male,0.014599351
+comorbidities_Yes,0.014270324
+employment_status_Unemployed,0.014210766
+Confidence in Goverment's response_Not very much confidence,0.0141323
+Pleasure in doing things_consent_removed,0.014127584
+Feeling nervous/anxious_Several days,0.013968145
+Can't control worrying_Not at all,0.01395195
+Isolate if unwell_Yes,0.013757501
+Feeling down/depressed_Several days,0.013740523
+How Government handle situation_Very badly,0.013653962
+employment_status_Retired,0.013653226
+Can't control worrying_Several days,0.012994729
+Pleasure in doing things_Several days,0.012925826
+Pleasure in doing things_Not at all,0.012460416
+Feeling down/depressed_Not at all,0.012245848
+How Government handle situation_Somewhat well,0.010960631
+Can't control worrying_Prefer not to say,0.008045094
+Feeling down/depressed_Prefer not to say,0.006552831
+comorbidities_Prefer_not_to_say,0.0036511477
+Pleasure in doing things_Prefer not to say,0.002801067
+Isolate if instructed_Not sure,0.0
+Feeling nervous/anxious_Prefer not to say,0.0
+Can't control worrying_consent_removed,0.0

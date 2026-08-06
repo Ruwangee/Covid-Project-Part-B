@@ -1,0 +1,54 @@
+Feature,Importance
+week,0.20576163
+protective_behavior_nomask_scale,0.05545837
+Confidence in Goverment's response_A lot of confidence,0.04003685
+Perceived Susceptibility,0.031896487
+comorbidities_consent_removed,0.029701425
+Isolate if instructed_Very willing,0.02900299
+Isolate if instructed_Very unwilling,0.026540302
+Isolate if instructed_Somewhat willing,0.02592983
+age,0.02067899
+employment_status_Unemployed,0.019916033
+Confidence in Goverment's response_No confidence at all,0.019380657
+Pleasure in doing things_consent_removed,0.01878605
+employment_status_Part time employment,0.018123727
+Perceived Severity,0.017695433
+How Government handle situation_Very well,0.017643247
+Wellbeing,0.017089384
+Non-household contacts,0.016167123
+Feeling nervous/anxious_Nearly every day,0.01604372
+Isolate if unwell_Not sure,0.015941426
+gender_Male,0.01573905
+Isolate if unwell_Yes,0.015735282
+household_size,0.015324706
+Feeling down/depressed_Not at all,0.015121674
+Pleasure in doing things_Not at all,0.014697332
+comorbidities_Yes,0.013595266
+Confidence in Goverment's response_Not very much confidence,0.013222318
+Pleasure in doing things_Several days,0.01300456
+Isolate if instructed_Somewhat unwilling,0.012867198
+Can't control worrying_Not at all,0.01277791
+employment_status_Retired,0.012627851
+Feeling nervous/anxious_consent_removed,0.012416339
+Can't control worrying_Several days,0.012311179
+Can't control worrying_Nearly every day,0.012198657
+How Government handle situation_Somewhat badly,0.01208159
+How Government handle situation_Somewhat well,0.011939837
+Feeling nervous/anxious_Several days,0.011800231
+employment_status_Not working,0.011617141
+How Government handle situation_Very badly,0.011616585
+Pleasure in doing things_Nearly every day,0.011551188
+Feeling down/depressed_Several days,0.011291254
+7days_rolling_deaths,0.011172393
+Feeling nervous/anxious_Not at all,0.011143075
+Confidence in Goverment's response_Don't know,0.011072988
+comorbidities_Prefer_not_to_say,0.010371474
+7days_rolling_cases,0.010148935
+Feeling down/depressed_Nearly every day,0.007775387
+Feeling down/depressed_Prefer not to say,0.0057341326
+Can't control worrying_Prefer not to say,0.0042018127
+Feeling nervous/anxious_Prefer not to say,0.0016935712
+Isolate if instructed_Not sure,0.0
+Pleasure in doing things_Prefer not to say,0.0
+Feeling down/depressed_consent_removed,0.0
+Can't control worrying_consent_removed,0.0

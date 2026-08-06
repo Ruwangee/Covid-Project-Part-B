@@ -1,0 +1,54 @@
+Feature,Importance
+week,0.16463865
+protective_behavior_nomask_scale,0.08706647
+How Government handle situation_Very badly,0.05605212
+7days_rolling_cases,0.055574127
+Pleasure in doing things_Nearly every day,0.0543073
+How Government handle situation_Somewhat well,0.051330548
+Isolate if unwell_Yes,0.04721805
+age,0.041318435
+Wellbeing,0.03522727
+Perceived Susceptibility,0.035210818
+Pleasure in doing things_Not at all,0.03511983
+employment_status_Part time employment,0.034031242
+Perceived Severity,0.03290591
+Feeling nervous/anxious_Several days,0.031037249
+Feeling down/depressed_Several days,0.030984912
+household_size,0.03071224
+Isolate if instructed_Somewhat willing,0.027829258
+Non-household contacts,0.023999853
+Can't control worrying_Nearly every day,0.021938723
+Confidence in Goverment's response_A lot of confidence,0.017861225
+Isolate if instructed_Very willing,0.015166704
+gender_Male,0.0079994
+Pleasure in doing things_consent_removed,0.0058361106
+Isolate if instructed_Somewhat unwilling,0.0
+employment_status_Not working,0.0
+Isolate if unwell_Not sure,0.0
+7days_rolling_deaths,0.0
+Isolate if instructed_Not sure,0.0
+Isolate if instructed_Very unwilling,0.0
+employment_status_Retired,0.0
+Confidence in Goverment's response_Not very much confidence,0.0
+Feeling down/depressed_Nearly every day,0.0
+Pleasure in doing things_Several days,0.0
+Pleasure in doing things_Prefer not to say,0.0
+Confidence in Goverment's response_Don't know,0.0
+Confidence in Goverment's response_No confidence at all,0.0
+employment_status_Unemployed,0.0
+Feeling nervous/anxious_Nearly every day,0.0
+Feeling down/depressed_consent_removed,0.0
+Feeling down/depressed_Prefer not to say,0.0
+Feeling down/depressed_Not at all,0.0
+Feeling nervous/anxious_consent_removed,0.0
+Can't control worrying_Not at all,0.0
+Feeling nervous/anxious_Prefer not to say,0.0
+Feeling nervous/anxious_Not at all,0.0
+Can't control worrying_Several days,0.0
+Can't control worrying_Prefer not to say,0.0
+How Government handle situation_Somewhat badly,0.0
+Can't control worrying_consent_removed,0.0
+How Government handle situation_Very well,0.0
+comorbidities_Prefer_not_to_say,0.0
+comorbidities_Yes,0.0
+comorbidities_consent_removed,0.0

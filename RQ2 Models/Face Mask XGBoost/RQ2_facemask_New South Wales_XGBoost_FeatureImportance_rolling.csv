@@ -1,0 +1,54 @@
+Feature,Importance
+week,0.19001845
+protective_behavior_nomask_scale,0.08931753
+Isolate if instructed_Very willing,0.036767267
+Perceived Severity,0.026013475
+Pleasure in doing things_consent_removed,0.022161482
+Perceived Susceptibility,0.021883786
+comorbidities_Yes,0.020954512
+Wellbeing,0.02001318
+7days_rolling_cases,0.019130267
+age,0.017524153
+comorbidities_consent_removed,0.017114202
+Confidence in Goverment's response_No confidence at all,0.016922932
+Feeling nervous/anxious_consent_removed,0.016661275
+employment_status_Not working,0.016334072
+Isolate if unwell_Yes,0.016224142
+Non-household contacts,0.015840892
+Pleasure in doing things_Nearly every day,0.015618872
+employment_status_Unemployed,0.0152391605
+Confidence in Goverment's response_Not very much confidence,0.0151594505
+Isolate if unwell_Not sure,0.01515547
+How Government handle situation_Very well,0.0150943175
+Feeling down/depressed_Not at all,0.014760738
+How Government handle situation_Very badly,0.014350126
+7days_rolling_deaths,0.014072081
+Feeling nervous/anxious_Prefer not to say,0.013574419
+gender_Male,0.013354899
+employment_status_Part time employment,0.013343236
+household_size,0.013273334
+Pleasure in doing things_Not at all,0.013222462
+How Government handle situation_Somewhat well,0.013122754
+How Government handle situation_Somewhat badly,0.013076106
+Confidence in Goverment's response_Don't know,0.012984015
+Feeling down/depressed_Nearly every day,0.012737963
+Isolate if instructed_Somewhat willing,0.012689915
+Feeling down/depressed_Several days,0.012631098
+Pleasure in doing things_Prefer not to say,0.012414627
+Feeling nervous/anxious_Nearly every day,0.0120306555
+Confidence in Goverment's response_A lot of confidence,0.011789335
+Pleasure in doing things_Several days,0.011749882
+Can't control worrying_Nearly every day,0.011607703
+employment_status_Retired,0.011562979
+Feeling nervous/anxious_Not at all,0.011470152
+Can't control worrying_Several days,0.010908969
+Feeling nervous/anxious_Several days,0.010837764
+Can't control worrying_Not at all,0.0107042715
+Feeling down/depressed_Prefer not to say,0.009649342
+comorbidities_Prefer_not_to_say,0.0073740184
+Can't control worrying_Prefer not to say,0.0070977993
+Isolate if instructed_Very unwilling,0.0070468793
+Isolate if instructed_Not sure,0.006953246
+Feeling down/depressed_consent_removed,0.00678653
+Can't control worrying_consent_removed,0.003592232
+Isolate if instructed_Somewhat unwilling,0.001839537

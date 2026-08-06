@@ -1,0 +1,54 @@
+Feature,Importance
+protective_behavior_nomask_scale,0.17952892
+week,0.08562738
+Confidence in Goverment's response_A lot of confidence,0.04140466
+comorbidities_consent_removed,0.031086322
+How Government handle situation_Very well,0.030498922
+age,0.029905785
+7days_rolling_cases,0.029634606
+Perceived Susceptibility,0.029086452
+household_size,0.027288813
+Perceived Severity,0.023979284
+Can't control worrying_Not at all,0.020817868
+Non-household contacts,0.020687021
+Confidence in Goverment's response_Not very much confidence,0.020609012
+Wellbeing,0.019657608
+Isolate if instructed_Somewhat willing,0.019370805
+Feeling nervous/anxious_Several days,0.018413331
+Pleasure in doing things_Nearly every day,0.018152244
+employment_status_Retired,0.01811014
+How Government handle situation_Somewhat badly,0.017988756
+Feeling down/depressed_Not at all,0.017844286
+employment_status_Part time employment,0.016801057
+Isolate if unwell_Yes,0.016202789
+Feeling down/depressed_Nearly every day,0.015915375
+gender_Male,0.0156189455
+Feeling down/depressed_Several days,0.015443144
+How Government handle situation_Very badly,0.015030926
+comorbidities_Yes,0.014557509
+How Government handle situation_Somewhat well,0.014442133
+Pleasure in doing things_Not at all,0.0140620265
+Pleasure in doing things_Several days,0.0140416995
+Feeling nervous/anxious_Nearly every day,0.0137102865
+Isolate if instructed_Very willing,0.013517908
+Isolate if unwell_Not sure,0.01178381
+employment_status_Not working,0.01174956
+Can't control worrying_Nearly every day,0.010985995
+employment_status_Unemployed,0.010401483
+Can't control worrying_Several days,0.01001225
+Confidence in Goverment's response_No confidence at all,0.0099596055
+Feeling nervous/anxious_Not at all,0.008765034
+Pleasure in doing things_consent_removed,0.0067196805
+Feeling down/depressed_consent_removed,0.005809345
+Confidence in Goverment's response_Don't know,0.004582422
+Isolate if instructed_Somewhat unwilling,0.002315198
+7days_rolling_deaths,0.0
+Isolate if instructed_Not sure,0.0
+Isolate if instructed_Very unwilling,0.0
+Pleasure in doing things_Prefer not to say,0.0
+Feeling down/depressed_Prefer not to say,0.0
+Feeling nervous/anxious_Prefer not to say,0.0
+Can't control worrying_Prefer not to say,0.0
+Feeling nervous/anxious_consent_removed,0.0
+Can't control worrying_consent_removed,0.0
+comorbidities_Prefer_not_to_say,0.0

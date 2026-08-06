@@ -1,0 +1,54 @@
+Feature,Importance
+7days_rolling_cases,0.12016739
+protective_behavior_nomask_scale,0.061082296
+Pleasure in doing things_consent_removed,0.060067594
+week,0.052724812
+How Government handle situation_Somewhat well,0.05189479
+Feeling down/depressed_Nearly every day,0.03961551
+Pleasure in doing things_Not at all,0.0279081
+Confidence in Goverment's response_A lot of confidence,0.027491257
+Isolate if unwell_Yes,0.027436879
+Wellbeing,0.027098227
+Feeling nervous/anxious_Not at all,0.025200423
+Feeling nervous/anxious_Several days,0.023522068
+Feeling nervous/anxious_Nearly every day,0.023323737
+age,0.023234326
+Can't control worrying_Several days,0.021930538
+Non-household contacts,0.021827895
+How Government handle situation_Somewhat badly,0.021633837
+employment_status_Retired,0.021284204
+employment_status_Unemployed,0.021231975
+Perceived Severity,0.020597233
+7days_rolling_deaths,0.02053079
+Isolate if instructed_Very willing,0.019606737
+gender_Male,0.019520488
+Perceived Susceptibility,0.019148223
+household_size,0.018701583
+How Government handle situation_Very well,0.01740805
+Isolate if unwell_Not sure,0.017305305
+comorbidities_Yes,0.015145894
+Pleasure in doing things_Nearly every day,0.014983318
+comorbidities_Prefer_not_to_say,0.013552655
+Can't control worrying_Nearly every day,0.013416981
+How Government handle situation_Very badly,0.012737815
+Confidence in Goverment's response_Not very much confidence,0.012372607
+Feeling down/depressed_Not at all,0.011989927
+Pleasure in doing things_Several days,0.011281335
+employment_status_Not working,0.011132372
+Feeling down/depressed_Several days,0.010349292
+Can't control worrying_Not at all,0.010062797
+Confidence in Goverment's response_Don't know,0.0067839595
+employment_status_Part time employment,0.0063188416
+Isolate if instructed_Somewhat willing,0.0010318556
+Isolate if instructed_Somewhat unwilling,0.0
+Isolate if instructed_Very unwilling,0.0
+Isolate if instructed_Not sure,0.0
+Pleasure in doing things_Prefer not to say,0.0
+Feeling down/depressed_consent_removed,0.0
+Feeling down/depressed_Prefer not to say,0.0
+Confidence in Goverment's response_No confidence at all,0.0
+Feeling nervous/anxious_Prefer not to say,0.0
+Can't control worrying_Prefer not to say,0.0
+Feeling nervous/anxious_consent_removed,0.0
+Can't control worrying_consent_removed,0.0
+comorbidities_consent_removed,0.0

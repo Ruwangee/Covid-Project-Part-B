@@ -1,0 +1,54 @@
+Feature,Importance
+week,0.13830987
+protective_behavior_nomask_scale,0.06674829
+employment_status_Unemployed,0.052320875
+Feeling down/depressed_Not at all,0.042455908
+Pleasure in doing things_Several days,0.040424384
+Feeling nervous/anxious_Nearly every day,0.036874637
+Confidence in Goverment's response_Not very much confidence,0.0350989
+employment_status_Retired,0.032294318
+employment_status_Part time employment,0.028753161
+Perceived Susceptibility,0.028170295
+Wellbeing,0.027178414
+7days_rolling_cases,0.026534382
+Feeling down/depressed_Nearly every day,0.02534359
+Isolate if instructed_Somewhat willing,0.025311608
+employment_status_Not working,0.025110066
+gender_Male,0.02428321
+How Government handle situation_Very badly,0.024136508
+age,0.02384292
+household_size,0.022512782
+Pleasure in doing things_Not at all,0.021370705
+Non-household contacts,0.01987076
+Confidence in Goverment's response_A lot of confidence,0.019093992
+How Government handle situation_Somewhat well,0.019053467
+comorbidities_Yes,0.01741236
+Isolate if unwell_Yes,0.014593875
+Feeling down/depressed_consent_removed,0.014263019
+Pleasure in doing things_Nearly every day,0.013787322
+Perceived Severity,0.012894865
+Can't control worrying_Nearly every day,0.011909144
+Can't control worrying_Not at all,0.010707572
+Isolate if unwell_Not sure,0.010081023
+Isolate if instructed_Very willing,0.009921664
+Feeling nervous/anxious_Several days,0.009435426
+Can't control worrying_Several days,0.008643824
+How Government handle situation_Somewhat badly,0.0059793377
+Feeling nervous/anxious_Not at all,0.0054083075
+How Government handle situation_Very well,0.005052627
+Isolate if instructed_Somewhat unwilling,0.0
+Isolate if instructed_Very unwilling,0.0
+7days_rolling_deaths,0.0
+Isolate if instructed_Not sure,0.0
+Confidence in Goverment's response_No confidence at all,0.0
+Confidence in Goverment's response_Don't know,0.0
+Pleasure in doing things_consent_removed,0.0
+Pleasure in doing things_Prefer not to say,0.0
+Feeling down/depressed_Prefer not to say,0.0
+Feeling down/depressed_Several days,0.0
+Feeling nervous/anxious_Prefer not to say,0.0
+Feeling nervous/anxious_consent_removed,0.0
+Can't control worrying_Prefer not to say,0.0
+Can't control worrying_consent_removed,0.0
+comorbidities_Prefer_not_to_say,0.0
+comorbidities_consent_removed,0.0
